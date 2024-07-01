@@ -42,7 +42,6 @@ Explore and Preprocess the Data:
 Check for missing values, data types, and perform any necessary preprocessing like encoding categorical variables, normalizing numerical data, etc.
 df.info()
 df.describe()
-# Example of filling missing values
 df.fillna(method='ffill', inplace=True)
 
 3. Feature Engineering:
