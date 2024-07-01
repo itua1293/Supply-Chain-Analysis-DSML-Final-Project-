@@ -1,5 +1,5 @@
 # DSML-Final-Project
-Itua Eriaye
+**Itua Eriaye**
 
 Data Science and Machine Learning - Full Time Course | June 2024
 
