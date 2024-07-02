@@ -3,6 +3,8 @@
 
 Data Science and Machine Learning - Full Time Course | June 2024
 
+Shipping Cost Prediction in Supply Chain Management
+
 Brief Overview of the Problem
 The Supply Chain Industry is constantly experiencing high variability in shipping costs, Lead Times, pack prices,Inventory Levels, Supplier Reliability, Demand Variability etc., and these generally affects the overall cost efficiency.
 
